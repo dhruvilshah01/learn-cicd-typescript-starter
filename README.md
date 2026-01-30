@@ -1,4 +1,4 @@
-![alt text goes here](https://github.com/dhruvilshah01/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+![CI Passing](https://github.com/dhruvilshah01/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
